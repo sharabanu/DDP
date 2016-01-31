@@ -1,0 +1,38 @@
+Module 9 Developing Data Products: Assignment
+========================================================
+Author: Ashara Banu binti Mohamed
+Date: 31 January 2016
+
+
+Project Detail
+========================================================
+This apps will analyze the Air Pollution Index (API) readings of Kampung Air Putih from 2013-2015. You just need to select year by clicking on the 'Select Year' and 'Select Month' drop down buttons as above. This assignment has two parts
+
+A) Shiny Apps
+1) The apps can be viewed at https://sharabanu.shinyapps.io/TaipingApi/
+
+B) Reproducible Pitch Presentation
+1. Presentation pushed to Rpubs
+
+
+Data used for the assignment
+========================================================
+```{r}
+ taiping<-read.csv("taiping.csv")
+ str(taiping)
+```
+
+Slide With Plot
+========================================================
+Input and output field of the assignment
+
+![alt text](TaipingApi.png)
+
+
+Thank You
+========================================================
+This assignment contains all the code and data making up this solution. The files and folders are the following:
+
+- README.md
+- ui.R and server.R - The shiny app code
+- /project - The R Markdown used to create the RStudio Presenter presentation.
