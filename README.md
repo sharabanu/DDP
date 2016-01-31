@@ -17,4 +17,4 @@
         1. 5 slides to pitch our idea done in Slidify or Rstudio Presenter
         2. Your presentation pushed to github or Rpubs
         3. A link to your github or Rpubs presentation pasted into the provided text box
-        4. Presentation pushed to Rpubs  
+        4. Presentation pushed to Rpubs  at http://rpubs.com/shara/AirPolutionIndex
